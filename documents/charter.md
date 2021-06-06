@@ -14,27 +14,38 @@ progress made in all areas under the purview of the TAB.
 3. Promote and Support the programmes with which the TAB is charged to the
 wider Linux and Open Source Communities.
 
+Election Procedures
+-------------------
+1. The election shall be held at the same time as the Linux Kernel Summit.
+2. The elections shall be run by a commitee consisting of TAB members who
+are not up for election.
+3. If the Linux Kernel Summit will not be held in a calendar year the election
+committee shall announce a date for elections with at least one month notice.
+4. Active kernel community members shall be eligible to vote. The entire TAB
+will decide what criteria makes up an active kernel community member. The
+election committee will announce those specific requirements for voting at
+least one month before the date of the elections.
+5. Self nominations for the election shall be accepted from any active kernel
+community member, via email to the designated election mailing list, up until
+the time of the election.
+
 Meetings and Membership
 -----------------------
 
 1. The TAB consists of ten voting members.
-2. All members shall be elected by a vote amongst all invitees of the Linux
-Kernel Summit.
-3. Self nominations for the election shall be accepted from any person, via
-email to the TAB mailing list, up until the time of the election.
-4. Membership of the TAB shall be for a term of 2 years with staggered 1-year
+2. Membership of the TAB shall be for a term of 2 years with staggered 1-year
 elections.
-5. The TAB shall elect a Chair and Vice-Chair of the TAB from amongst their
+3. The TAB shall elect a Chair and Vice-Chair of the TAB from amongst their
 members to serve a renewable 1 year term.
-6. The Chair shall be Nominated for a Voting position on the Board with the
+4. The Chair shall be Nominated for a Voting position on the Board with the
 Vice-Chair serving as his Observer.
-7. The Chair or Vice-Chair shall prepare an agenda for and preside over monthly
+5. The Chair or Vice-Chair shall prepare an agenda for and preside over monthly
 meetings of the TAB.
-8. A member of the TAB may be removed by a resolution of the TAB supported by
+6. A member of the TAB may be removed by a resolution of the TAB supported by
 more than two thirds of its voting membership.
-9. The TAB may fill any vacancy arising by removal or resignation by a simple
+7. The TAB may fill any vacancy arising by removal or resignation by a simple
 majority vote to fill the remainder of the term of the vacating member.
-10. The rules of election and membership outlined in this section may be varied
+8. The rules of election and membership outlined in this section may be varied
 by a resolution of the TAB supported by more than two thirds of its voting
 membership.
 
